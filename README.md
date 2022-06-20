@@ -8,11 +8,11 @@ pre-requisite :
     
     <img width="499" alt="image" src="https://user-images.githubusercontent.com/54891488/174519402-b9b08845-6acc-4771-a163-2a7b251944d5.png">
     
- - download the source from repo and unzip into desired location
+ - download the source folder HelloWorldPython from repo [https://github.com/jayadev1207/flaskHelloWorld/tree/main/HelloWorldPython](https://github.com/jayadev1207/flaskHelloWorld)  and unzip into desired location
 
 folder structure :
   - python-flask app follows a simple folder structure 
-  - project name "HELLOWORLDPYTHON"
+  - project name "HelloWorldPython"
     - app.py   
     - templates
       -   index.html
@@ -36,9 +36,9 @@ Extension /Excercise :
     -  ![image](https://user-images.githubusercontent.com/54891488/174520356-cda759b0-3a73-45b4-95d3-5954bb81c25f.png)
   - Create a new route in app.py called contactMe()  
     -  Code Hint 
-        ## @app.route('/ContactMe')   
-        ## def ContactMePage():
-        ##   return render_template("ContactMe.html")
+        - @app.route('/ContactMe')   
+        - def ContactMePage():
+        -   return render_template("ContactMe.html")
 
 
 
