@@ -7,7 +7,10 @@ pre-requisite :
  - once done , windows user can verify the installation by running the command "python --version" in command prompt 
     
     <img width="347" alt="image" src="https://user-images.githubusercontent.com/54891488/174521470-69e8c1f4-b8f0-4101-8df3-81d443fe7a40.png">
-    
+ - flask installation
+   - from the command promot execute the command "pip install flask"  ## pip is the package installer for python
+     <img width="873" alt="image" src="https://user-images.githubusercontent.com/54891488/174522277-c6efd127-dddd-4bcf-9832-629f05c695f5.png">
+
  - download the source folder HelloWorldPython from repo [https://github.com/jayadev1207/flaskHelloWorld/tree/main/HelloWorldPython](https://github.com/jayadev1207/flaskHelloWorld)  and unzip into desired location
 
 folder structure :
